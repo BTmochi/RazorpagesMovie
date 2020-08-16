@@ -20,4 +20,519 @@
   <ItemGroup>
     <Content Remove="Pages\Movies\Delete.cshtml" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\docs\Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <Link>docs\Microsoft.EntityFrameworkCore.Sqlite.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.DotNet.PlatformAbstractions.dll">
+      <Link>docs\Microsoft.DotNet.PlatformAbstractions.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <Link>docs\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll</Link>
+    </None>
+    <None Include="..\docs\SQLitePCLRaw.nativelibrary.dll">
+      <Link>docs\SQLitePCLRaw.nativelibrary.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <Link>docs\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll</Link>
+    </None>
+    <None Include="..\docs\System.Diagnostics.DiagnosticSource.dll">
+      <Link>docs\System.Diagnostics.DiagnosticSource.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.EntityFrameworkCore.dll">
+      <Link>docs\Microsoft.EntityFrameworkCore.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <Link>docs\Microsoft.CodeAnalysis.CSharp.Workspaces.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Logging.dll">
+      <Link>docs\Microsoft.Extensions.Logging.dll</Link>
+    </None>
+    <None Include="..\docs\RazorPagesMovie.Views.pdb">
+      <Link>docs\RazorPagesMovie.Views.pdb</Link>
+    </None>
+    <None Include="..\docs\System.Composition.Runtime.dll">
+      <Link>docs\System.Composition.Runtime.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Caching.Abstractions.dll">
+      <Link>docs\Microsoft.Extensions.Caching.Abstractions.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <Link>docs\Microsoft.EntityFrameworkCore.Abstractions.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Logging.Abstractions.dll">
+      <Link>docs\Microsoft.Extensions.Logging.Abstractions.dll</Link>
+    </None>
+    <None Include="..\docs\SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <Link>docs\SQLitePCLRaw.provider.dynamic_cdecl.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <Link>docs\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.CodeAnalysis.CSharp.dll">
+      <Link>docs\Microsoft.CodeAnalysis.CSharp.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Bcl.HashCode.dll">
+      <Link>docs\Microsoft.Bcl.HashCode.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Configuration.dll">
+      <Link>docs\Microsoft.Extensions.Configuration.dll</Link>
+    </None>
+    <None Include="..\docs\RazorPagesMovie.deps.json">
+      <Link>docs\RazorPagesMovie.deps.json</Link>
+    </None>
+    <None Include="..\docs\web.config">
+      <Link>docs\web.config</Link>
+    </None>
+    <None Include="..\docs\Microsoft.CodeAnalysis.Razor.dll">
+      <Link>docs\Microsoft.CodeAnalysis.Razor.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.DependencyModel.dll">
+      <Link>docs\Microsoft.Extensions.DependencyModel.dll</Link>
+    </None>
+    <None Include="..\docs\System.Text.Json.dll">
+      <Link>docs\System.Text.Json.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Primitives.dll">
+      <Link>docs\Microsoft.Extensions.Primitives.dll</Link>
+    </None>
+    <None Include="..\docs\SQLitePCLRaw.batteries_v2.dll">
+      <Link>docs\SQLitePCLRaw.batteries_v2.dll</Link>
+    </None>
+    <None Include="..\docs\appsettings.json">
+      <Link>docs\appsettings.json</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.DependencyInjection.dll">
+      <Link>docs\Microsoft.Extensions.DependencyInjection.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.EntityFrameworkCore.Relational.dll">
+      <Link>docs\Microsoft.EntityFrameworkCore.Relational.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Configuration.Abstractions.dll">
+      <Link>docs\Microsoft.Extensions.Configuration.Abstractions.dll</Link>
+    </None>
+    <None Include="..\docs\RazorPagesMovie.Views.dll">
+      <Link>docs\RazorPagesMovie.Views.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Options.dll">
+      <Link>docs\Microsoft.Extensions.Options.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Configuration.Binder.dll">
+      <Link>docs\Microsoft.Extensions.Configuration.Binder.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.AspNetCore.Razor.Language.dll">
+      <Link>docs\Microsoft.AspNetCore.Razor.Language.dll</Link>
+    </None>
+    <None Include="..\docs\RazorPagesMovie.pdb">
+      <Link>docs\RazorPagesMovie.pdb</Link>
+    </None>
+    <None Include="..\docs\Microsoft.CodeAnalysis.dll">
+      <Link>docs\Microsoft.CodeAnalysis.dll</Link>
+    </None>
+    <None Include="..\docs\System.Composition.Convention.dll">
+      <Link>docs\System.Composition.Convention.dll</Link>
+    </None>
+    <None Include="..\docs\System.Composition.Hosting.dll">
+      <Link>docs\System.Composition.Hosting.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Identity.Client.dll">
+      <Link>docs\Microsoft.Identity.Client.dll</Link>
+    </None>
+    <None Include="..\docs\Newtonsoft.Json.dll">
+      <Link>docs\Newtonsoft.Json.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <Link>docs\Microsoft.VisualStudio.Web.CodeGeneration.dll</Link>
+    </None>
+    <None Include="..\docs\System.Security.Cryptography.ProtectedData.dll">
+      <Link>docs\System.Security.Cryptography.ProtectedData.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <Link>docs\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.Caching.Memory.dll">
+      <Link>docs\Microsoft.Extensions.Caching.Memory.dll</Link>
+    </None>
+    <None Include="..\docs\System.Runtime.Caching.dll">
+      <Link>docs\System.Runtime.Caching.dll</Link>
+    </None>
+    <None Include="..\docs\RazorPagesMovie.dll">
+      <Link>docs\RazorPagesMovie.dll</Link>
+    </None>
+    <None Include="..\docs\SQLitePCLRaw.core.dll">
+      <Link>docs\SQLitePCLRaw.core.dll</Link>
+    </None>
+    <None Include="..\docs\appsettings.Development.json">
+      <Link>docs\appsettings.Development.json</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <Link>docs\Microsoft.Extensions.DependencyInjection.Abstractions.dll</Link>
+    </None>
+    <None Include="..\docs\System.Composition.TypedParts.dll">
+      <Link>docs\System.Composition.TypedParts.dll</Link>
+    </None>
+    <None Include="..\docs\RazorPagesMovie.runtimeconfig.json">
+      <Link>docs\RazorPagesMovie.runtimeconfig.json</Link>
+    </None>
+    <None Include="..\docs\System.Composition.AttributedModel.dll">
+      <Link>docs\System.Composition.AttributedModel.dll</Link>
+    </None>
+    <None Include="..\docs\System.Configuration.ConfigurationManager.dll">
+      <Link>docs\System.Configuration.ConfigurationManager.dll</Link>
+    </None>
+    <None Include="..\docs\System.Collections.Immutable.dll">
+      <Link>docs\System.Collections.Immutable.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.CodeAnalysis.Workspaces.dll">
+      <Link>docs\Microsoft.CodeAnalysis.Workspaces.dll</Link>
+    </None>
+    <None Include="..\docs\dotnet-aspnet-codegenerator-design.dll">
+      <Link>docs\dotnet-aspnet-codegenerator-design.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Data.SqlClient.dll">
+      <Link>docs\Microsoft.Data.SqlClient.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Data.Sqlite.dll">
+      <Link>docs\Microsoft.Data.Sqlite.dll</Link>
+    </None>
+    <None Include="..\docs\NuGet.Frameworks.dll">
+      <Link>docs\NuGet.Frameworks.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <Link>docs\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <Link>docs\Microsoft.EntityFrameworkCore.SqlServer.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <Link>docs\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll</Link>
+    </None>
+    <None Include="..\docs\Microsoft.Bcl.AsyncInterfaces.dll">
+      <Link>docs\Microsoft.Bcl.AsyncInterfaces.dll</Link>
+    </None>
+    <None Include="..\docs\zh-Hans\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\zh-Hans\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\zh-Hant\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\zh-Hant\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\pl\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\pl\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\pl\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\pl\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\wwwroot\favicon.ico">
+      <Link>docs\wwwroot\favicon.ico</Link>
+    </None>
+    <None Include="..\docs\wwwroot\css\site.css">
+      <Link>docs\wwwroot\css\site.css</Link>
+    </None>
+    <None Include="..\docs\wwwroot\js\site.js">
+      <Link>docs\wwwroot\js\site.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\LICENSE">
+      <Link>docs\wwwroot\lib\bootstrap\LICENSE</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap.css">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap.css</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js">
+      <Link>docs\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\js\bootstrap.js">
+      <Link>docs\wwwroot\lib\bootstrap\dist\js\bootstrap.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js">
+      <Link>docs\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js">
+      <Link>docs\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map">
+      <Link>docs\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery\LICENSE.txt">
+      <Link>docs\wwwroot\lib\jquery\LICENSE.txt</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery\dist\jquery.min.js">
+      <Link>docs\wwwroot\lib\jquery\dist\jquery.min.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery\dist\jquery.min.map">
+      <Link>docs\wwwroot\lib\jquery\dist\jquery.min.map</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery\dist\jquery.js">
+      <Link>docs\wwwroot\lib\jquery\dist\jquery.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js">
+      <Link>docs\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js">
+      <Link>docs\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt">
+      <Link>docs\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery-validation\LICENSE.md">
+      <Link>docs\wwwroot\lib\jquery-validation\LICENSE.md</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js">
+      <Link>docs\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery-validation\dist\additional-methods.js">
+      <Link>docs\wwwroot\lib\jquery-validation\dist\additional-methods.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery-validation\dist\additional-methods.min.js">
+      <Link>docs\wwwroot\lib\jquery-validation\dist\additional-methods.min.js</Link>
+    </None>
+    <None Include="..\docs\wwwroot\lib\jquery-validation\dist\jquery.validate.js">
+      <Link>docs\wwwroot\lib\jquery-validation\dist\jquery.validate.js</Link>
+    </None>
+    <None Include="..\docs\ja\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\ja\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ja\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\ja\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\it\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\it\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\it\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\it\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\it\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\it\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\cs\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\cs\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\cs\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\cs\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ru\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\ru\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ru\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\ru\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\pt-BR\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\pt-BR\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\de\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\de\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\de\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\de\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\de\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\de\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ko\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\ko\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ko\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\ko\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\fr\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\fr\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\fr\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\fr\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\es\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\es\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\es\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\es\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\es\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\es\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\tr\Microsoft.CodeAnalysis.resources.dll">
+      <Link>docs\tr\Microsoft.CodeAnalysis.resources.dll</Link>
+    </None>
+    <None Include="..\docs\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <Link>docs\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\tr\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <Link>docs\tr\Microsoft.CodeAnalysis.CSharp.resources.dll</Link>
+    </None>
+    <None Include="..\docs\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <Link>docs\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\win-arm\native\e_sqlite3.dll">
+      <Link>docs\runtimes\win-arm\native\e_sqlite3.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\osx-x64\native\libe_sqlite3.dylib">
+      <Link>docs\runtimes\osx-x64\native\libe_sqlite3.dylib</Link>
+    </None>
+    <None Include="..\docs\runtimes\linux-arm\native\libe_sqlite3.so">
+      <Link>docs\runtimes\linux-arm\native\libe_sqlite3.so</Link>
+    </None>
+    <None Include="..\docs\runtimes\linux-arm64\native\libe_sqlite3.so">
+      <Link>docs\runtimes\linux-arm64\native\libe_sqlite3.so</Link>
+    </None>
+    <None Include="..\docs\runtimes\linux-x86\native\libe_sqlite3.so">
+      <Link>docs\runtimes\linux-x86\native\libe_sqlite3.so</Link>
+    </None>
+    <None Include="..\docs\runtimes\win-x86\native\e_sqlite3.dll">
+      <Link>docs\runtimes\win-x86\native\e_sqlite3.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\win-x86\native\sni.dll">
+      <Link>docs\runtimes\win-x86\native\sni.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\linux-musl-x64\native\libe_sqlite3.so">
+      <Link>docs\runtimes\linux-musl-x64\native\libe_sqlite3.so</Link>
+    </None>
+    <None Include="..\docs\runtimes\win-x64\native\e_sqlite3.dll">
+      <Link>docs\runtimes\win-x64\native\e_sqlite3.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\win-x64\native\sni.dll">
+      <Link>docs\runtimes\win-x64\native\sni.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\linux-x64\native\libe_sqlite3.so">
+      <Link>docs\runtimes\linux-x64\native\libe_sqlite3.so</Link>
+    </None>
+    <None Include="..\docs\runtimes\win-arm64\native\e_sqlite3.dll">
+      <Link>docs\runtimes\win-arm64\native\e_sqlite3.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\win-arm64\native\sni.dll">
+      <Link>docs\runtimes\win-arm64\native\sni.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\alpine-x64\native\libe_sqlite3.so">
+      <Link>docs\runtimes\alpine-x64\native\libe_sqlite3.so</Link>
+    </None>
+    <None Include="..\docs\runtimes\linux-armel\native\libe_sqlite3.so">
+      <Link>docs\runtimes\linux-armel\native\libe_sqlite3.so</Link>
+    </None>
+    <None Include="..\docs\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll">
+      <Link>docs\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll">
+      <Link>docs\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll">
+      <Link>docs\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll">
+      <Link>docs\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll</Link>
+    </None>
+    <None Include="..\docs\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll">
+      <Link>docs\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll</Link>
+    </None>
+  </ItemGroup>
 </Project>
