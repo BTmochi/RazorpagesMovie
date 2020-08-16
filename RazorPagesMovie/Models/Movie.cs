@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema; 
 
 namespace RazorPagesMovie.Models
 {
@@ -13,9 +14,12 @@ namespace RazorPagesMovie.Models
         // この属性を使用する場合:
         // ユーザーは日付フィールドに時刻の情報を入力する必要はありません。
         // 日付のみが表示され、時刻の情報は表示されません。
+        [Display(Name = "Release Date")]
         [DataType(DataType.Date)]
         public DateTime ReleaseDate { get; set; }
         public string Genre { get; set; }
+
+        [Column(TypeName = "decimal(18, 2)")]
         public decimal Price { get; set; }
     }
 }
